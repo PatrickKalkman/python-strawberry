@@ -1,4 +1,4 @@
-# python-crossword
+# python-strawberry
 A repository that contains all the examples that go with [Mastering the Art of Data: FreshStream's Leap from REST to GraphQL](https://medium.com/@pkalkman)
 
 ![Data](/data.jpg "Data")
